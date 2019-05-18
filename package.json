@@ -1,0 +1,17 @@
+{
+  "name": "primeraentrega",
+  "version": "1.0.0",
+  "description": "Primera entrega para el curso de nodejs TdeA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Cesar Mauricio Ruiz Tulande, maorz314@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  }
+}
